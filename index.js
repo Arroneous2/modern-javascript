@@ -1,2 +1,3 @@
 console.log("Why hallo thar");
-var someString = "Some string";
+var datetime = moment().format();
+console.log(datetime);
